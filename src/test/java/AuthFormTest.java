@@ -1,7 +1,6 @@
 import org.example.BaseTest;
 import org.example.LoginPage;
 import org.example.SurveyPage;
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
